@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Reqres.in,,,,2023-02-15 22:18:59,2023-02-15 22:19:03,3.942s,PASSED
+,,,,,,,
+Test Cases/Reqres.in,,,,2023-02-15 22:18:59,2023-02-15 22:19:03,3.717s,PASSED
+"sendRequest(findTestObject(""Postman/Get List Users""))",,,,2023-02-15 22:19:00,2023-02-15 22:19:01,1.760s,PASSED
+"sendRequest(findTestObject(""Postman/Get Single User 10""))",,,,2023-02-15 22:19:01,2023-02-15 22:19:02,0.551s,PASSED
+"sendRequest(findTestObject(""Postman/Put Update User 10""))",,,,2023-02-15 22:19:02,2023-02-15 22:19:02,0.539s,PASSED
+"sendRequest(findTestObject(""Postman/Post Register User Email User 10""))",,,,2023-02-15 22:19:02,2023-02-15 22:19:03,0.611s,PASSED
